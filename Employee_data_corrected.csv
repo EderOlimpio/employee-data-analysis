@@ -1,0 +1,20 @@
+EmployeeID,Age,Gender,Nationality,EmploymentType,HireDate,PerformanceRating,Department,Source,EngagementScore
+1,29,Male,United States,Full-time,2020-01-10,Meets expectations,Sales,Linkedin Sourcing,7.9
+2,33,Female,British,Part-time,2018-05-23,Needs development,Sales,Careers page,6.7
+3,45,Male,United States,Full-time,2019-11-05,Exceeds expectations,Sales,Referral,7.5
+4,28,Female,Czech,Full-time,2021-03-15,Meets expectations,Sales,Linkedin Advert,8.7
+5,51,Female,United States,Part-time,2017-08-10,Needs development,Sales,Linkedin Sourcing,7.0
+6,36,Male,Czech,Full-time,2019-07-12,Meets expectations,Product,Linkedin Sourcing,6.2
+7,26,Female,British,Part-time,2020-09-25,Meets expectations,Sales,Linkedin Advert,6.2
+8,44,Male,Czech,Full-time,2016-11-30,Exceeds expectations,Product,Referral,6.8
+9,38,Female,United States,Full-time,2018-12-05,Needs development,Sales,Careers page,8.9
+10,59,Female,Spanish,Part-time,2017-01-15,Meets expectations,Customer Support,Referral,7.3
+11,36,Female,British,Full-time,2023-05-23,Meets expectations,Customer Support,Careers page,9.1
+12,38,Male,British,Full-time,2024-11-05,Meets expectations,Customer Support,Linkedin Advert,5.6
+13,39,Female,British,Full-time,2023-03-15,Meets expectations,Customer Support,Linkedin Sourcing,8.8
+14,36,Male,German,Full-time,2020-09-25,Meets expectations,Customer Support,Linkedin Advert,7.9
+15,41,Male,Czech,Full-time,2022-01-10,Meets expectations,Product,Careers page,8.1
+16,43,Male,Spanish,Full-time,2018-05-23,Exceeds expectations,Product,Referral,7.4
+17,36,Male,French,Full-time,2019-11-05,Needs development,Product,Linkedin Sourcing,5.3
+18,45,Male,Dutch,Full-time,2021-03-15,Meets expectations,Product,Referral,9.1
+19,40,Male,Brasilian,Full-time,2017-08-10,Meets expectations,Product,Careers page,6.5
