@@ -44,6 +44,10 @@ https://public.tableau.com/views/working_17487118610600/Dashboard1?:language=en-
 - **Tooltips & Labels:** Customized for detailed information and readability.
 
 ## Setup Instructions (for someone else to open the project)
-1.  Clone this repository: `git clone [repository_url]`
+1.  Clone this repository: git clone git clone https://github.com/EderOlimpio/employee-data-analysis.git
 2.  Open the `.twbx` file in Tableau Desktop.
+
+## Contact
+Eder Olimpio
+edertbo@gmail.com
 
